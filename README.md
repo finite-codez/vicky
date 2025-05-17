@@ -1,7 +1,7 @@
 # 📱 Android Device Tree for Motorola Moto G72 (vicky)
 
 <p align="center">
-  <img src="https://fdn2.gsmarena.com/vv/pics/motorola/motorola-moto-g72-1.jpg" alt="Motorola Moto G72" width="300"/>
+  <img src="https://motorolaimgrepo.vtexassets.com/arquivos/moto-g72-camera-design-alt-d-0w9gux6m.jpg" alt="Motorola Moto G72"/>
 </p>
 
 <p align="center">
