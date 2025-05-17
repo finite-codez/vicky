@@ -48,4 +48,5 @@ This repository contains the Android device tree for the Motorola Moto G72, code
 
 2. **Clone the Device Tree**:
    ```bash
-   git clone https://github.com/YourUsername/android_device_motorola_vicky.git device/motorola/vicky
+   git clone https://github.com/finite-codez/android_device_motorola_vicky.git device/motorola/vicky
+  ```
